@@ -1,0 +1,38 @@
+.footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 100px 50px;
+}
+
+.list li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todo{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 30px;
+    border: 2px solid saddlebrown;
+}
+
+button {
+    border: 2px solid saddlebrown;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+h1{
+    padding: 30px 20px;
+    font-size: 36px;
+    font-family: cursive;
+    letter-spacing: 1px;
+}
